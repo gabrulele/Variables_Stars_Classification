@@ -1,0 +1,11 @@
+dami , 23 dic
+2) data plotting da vedere e lasciare solamente i grafici che hanno senso
+3) togliere altre colonne inutili dal dataset
+4) PCA
+
+gabri , 23 dic
+5) aggiungere parametri al model per poi fare fine tuning
+
+17 gennaio
+6) Usare più modelli circa 4/5 per poi fare delle dovute valutazioni
+7) Relazione - pp -  gephi clustering per la presentazione
